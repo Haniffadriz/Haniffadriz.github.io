@@ -1,0 +1,12 @@
+.jumbotron{
+    padding: 1rem 2rem;
+    background-color: rgb(136, 136, 236);
+}
+
+.content h2{
+    padding-top: 20px;
+}
+
+.project{
+    background-color: rgb(144, 144, 233);
+}
